@@ -1,0 +1,9 @@
+C:\CalebE\Projects\GrabABunchOfFiles\GrabABunchOfFiles\bin\Release\GrabABunchOfFiles.exe.config
+C:\CalebE\Projects\GrabABunchOfFiles\GrabABunchOfFiles\bin\Release\GrabABunchOfFiles.exe
+C:\CalebE\Projects\GrabABunchOfFiles\GrabABunchOfFiles\bin\Release\GrabABunchOfFiles.pdb
+C:\CalebE\Projects\GrabABunchOfFiles\GrabABunchOfFiles\bin\Release\GrabABunchOfFiles.xml
+C:\CalebE\Projects\GrabABunchOfFiles\GrabABunchOfFiles\obj\Release\GrabABunchOfFiles.Resources.resources
+C:\CalebE\Projects\GrabABunchOfFiles\GrabABunchOfFiles\obj\Release\GrabABunchOfFiles.vbproj.GenerateResource.Cache
+C:\CalebE\Projects\GrabABunchOfFiles\GrabABunchOfFiles\obj\Release\GrabABunchOfFiles.exe
+C:\CalebE\Projects\GrabABunchOfFiles\GrabABunchOfFiles\obj\Release\GrabABunchOfFiles.xml
+C:\CalebE\Projects\GrabABunchOfFiles\GrabABunchOfFiles\obj\Release\GrabABunchOfFiles.pdb
